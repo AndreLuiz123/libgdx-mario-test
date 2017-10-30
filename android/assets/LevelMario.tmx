@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" nextobjectid="4">
+ <tileset firstgid="1" source="level1.tsx"/>
+ <layer name="background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAMA7AydfWvqCr2JZBeUlVVVVVVVVVVVVVV1ccDYOWGDg==
+  </data>
+ </layer>
+ <layer name="graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1EEKhDAMBVC9/9XGgzgnGF1ZkdkUwSi2FXwP/qKFhogkXQcAAAAAAAAAAPz1O4GaPilDg7d31izRR0Q+r6Xm1554l1/KlDIf3K3GlO/JWtG3V1ypWaKPiJrzm5/N8GZvtz1130V7lXqp9X9yrb/7SYlo3eOaBXQOF20=
+  </data>
+ </layer>
+ <objectgroup name="ground">
+  <object id="1" x="1" y="192" width="3840" height="16"/>
+  <object id="2" x="3680" y="293"/>
+  <object id="3" x="3707" y="376"/>
+ </objectgroup>
+ <objectgroup name="coins"/>
+ <objectgroup name="bricks"/>
+ <objectgroup name="pipes"/>
+</map>
